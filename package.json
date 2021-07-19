@@ -10,16 +10,17 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-etherscan": "^2.1.1",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "chai": "^4.2.0",
     "chai-bignumber": "^3.0.0",
     "chai-bn": "^0.2.1",
     "ethereum-waffle": "^3.2.1",
-    "ethers": "^5.0.24",
+    "ethers": "^5.4.1",
     "hardhat": "^2.0.6",
     "hardhat-deploy": "^0.7.0-beta.39",
+    "solidity-coverage": "^0.7.16",
     "web3": "^1.2.9"
   },
   "dependencies": {
